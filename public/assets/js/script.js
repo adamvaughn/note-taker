@@ -12,17 +12,17 @@ if (window.location.pathname === '/notes') {
   noteList = document.querySelectorAll('.list-container .list-group');
 }
 
-// Show an element
+// Shows element
 const show = (elem) => {
   elem.style.display = 'inline';
 };
 
-// Hide an element
+// Hides element
 const hide = (elem) => {
   elem.style.display = 'none';
 };
 
-// activeNote is used to keep track of the note in the textarea
+// activeNote is used to keep track of the note in the text area
 let activeNote = {};
 
 const getNotes = () =>
