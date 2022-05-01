@@ -1,3 +1,24 @@
 {
-  "notesArray": []
+  "notesArray": [
+    {
+      "title": "This is a note",
+      "text": "This is the text in the note.",
+      "id": "0"
+    },
+    {
+      "title": "This is another note",
+      "text": "I'm just testing this out.",
+      "id": "1"
+    },
+    {
+      "title": "Yup. Another note",
+      "text": "Yeah,  more of these.",
+      "id": "2"
+    },
+    {
+      "title": "Hello",
+      "text": "This is text for my hello note",
+      "id": "3"
+    }
+  ]
 }
