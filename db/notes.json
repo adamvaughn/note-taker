@@ -1,3 +1,24 @@
 {
-  "notesArray": []
+  "notesArray": [
+    {
+      "title": "First Note",
+      "text": "This is a first note to test saving functionality.",
+      "id": "0"
+    },
+    {
+      "title": "Shopping List",
+      "text": "Shopping List Text",
+      "id": "1"
+    },
+    {
+      "title": "ToDo:",
+      "text": "a list",
+      "id": "2"
+    },
+    {
+      "title": "Fourth Note",
+      "text": "Eton htrouf",
+      "id": "3"
+    }
+  ]
 }
